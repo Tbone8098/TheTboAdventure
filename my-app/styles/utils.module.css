@@ -1,0 +1,7 @@
+.input {
+    @apply border-2 border-gray-200 rounded-lg text-center shadow focus:bg-blog-primary focus:text-blog-secondary1
+}
+
+.btn {
+    @apply border-2 border-gray-200 rounded-lg text-center shadow focus:bg-blog-primary focus:text-blog-secondary1
+}
